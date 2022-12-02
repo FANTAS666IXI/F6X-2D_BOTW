@@ -2,20 +2,18 @@
 
 RPG 2D BOTW LIKE
 
-- Controles:
-  - Jugador:
+- Controls:
+  - Player:
   - ???: --- [???]
 
-- Finalizado:
+- Done:
 
-- Avanzado:
+- In progress:
 
-- Trabajando:
-
-- Por Hacer:
+- To do:
 
 - Ideas:
 
-- Versión 0.0.0
-- UNITY 0.0.0
+- Version 0.001
+- UNITY 2021.3.15f1
 - F6X
