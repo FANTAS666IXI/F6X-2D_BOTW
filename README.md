@@ -3,8 +3,8 @@
 RPG 2D BOTW LIKE
 
 - Controles:
-- - Jugador:
-   ???: --- [???]
+  - Jugador:
+  - ???: --- [???]
 
 - Finalizado:
 
