@@ -3,7 +3,7 @@
 RPG 2D BOTW LIKE
 
 - Controles:
-   Jugador:
+- - Jugador:
    ???: --- [???]
 
 - Finalizado:
@@ -18,4 +18,4 @@ RPG 2D BOTW LIKE
 
 - Versión 0.0.0
 - UNITY 0.0.0
- - F6X -
+- F6X
