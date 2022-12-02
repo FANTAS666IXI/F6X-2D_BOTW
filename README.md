@@ -2,20 +2,20 @@
 
 RPG 2D BOTW LIKE
 
-Controles:
- Jugador:
-  ???: --- [???]
+- Controles:
+   Jugador:
+   ???: --- [???]
 
-Finalizado:
+- Finalizado:
 
-Avanzado:
+- Avanzado:
 
-Trabajando:
+- Trabajando:
 
-Por Hacer:
+- Por Hacer:
 
-Ideas:
+- Ideas:
 
-Versión 0.0.0
-UNITY 0.0.0
-- F6X -
+- Versión 0.0.0
+- UNITY 0.0.0
+ - F6X -
